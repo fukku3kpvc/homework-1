@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e8bf82e-1fe4-4c4a-bdce-d694634c5fa3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fourth.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/homework #1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homework #1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first.rb" beforeDir="false" afterPath="$PROJECT_DIR$/first.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,20 +15,10 @@
     <SUITE FILE_PATH="coverage/homework__1@third.rcov" NAME="third Coverage Results" MODIFIED="1544686837688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="homework #1" />
     <SUITE FILE_PATH="coverage/homework__1@second.rcov" NAME="second Coverage Results" MODIFIED="1544639892138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="homework #1" />
     <SUITE FILE_PATH="coverage/homework__1@fourth.rcov" NAME="fourth Coverage Results" MODIFIED="1544690552301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="homework #1" />
-    <SUITE FILE_PATH="coverage/homework__1@first.rcov" NAME="first Coverage Results" MODIFIED="1544637025746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="homework #1" />
+    <SUITE FILE_PATH="coverage/homework__1@first.rcov" NAME="first Coverage Results" MODIFIED="1544692708797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="homework #1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fourth.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,15 +26,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/first.rb" />
         <option value="$PROJECT_DIR$/second.rb" />
         <option value="$PROJECT_DIR$/third.rb" />
         <option value="$PROJECT_DIR$/fourth.rb" />
+        <option value="$PROJECT_DIR$/first.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
+    <option name="x" value="86" />
     <option name="y" value="39" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -88,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.fourth">
+  <component name="RunManager" selected="Ruby.first">
     <configuration name="first" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="homework #1" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -163,10 +152,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.first" />
         <item itemvalue="Ruby.fourth" />
         <item itemvalue="Ruby.third" />
         <item itemvalue="Ruby.second" />
-        <item itemvalue="Ruby.first" />
       </list>
     </recent_temporary>
   </component>
@@ -182,23 +171,22 @@
       <option name="presentableId" value="Default" />
       <updated>1544618406906</updated>
       <workItem from="1544618408218" duration="5628000" />
-      <workItem from="1544636677221" duration="11696000" />
+      <workItem from="1544636677221" duration="13956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17324000" />
+    <option name="totallyTimeSpent" value="19584000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="39" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="86" y="39" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25369823" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25369823" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33027524" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33027524" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39908257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -218,13 +206,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/first.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/second.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -248,8 +229,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fourth.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+        <state relative-caret-position="255">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
         </state>
       </provider>
     </entry>
